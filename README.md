@@ -8,3 +8,5 @@ This is a simple Google Chrome extension for Flibusta OPDS [(Open Publication Di
 After launching the Flibusta OPDS extension, the Flibusta OPDS page will look like this:
 
 ![After running the extension](https://github.com/bigbigmdm/Flibusta-OPDS-chrome-ext/blob/main/img/after.png) 
+
+To avoid 'mixed content errors' the manifest file is configured only to work with the http protocol. 
