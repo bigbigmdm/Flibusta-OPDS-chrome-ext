@@ -5,6 +5,6 @@ This is a simple Google Chrome extension for Flibusta OPDS [(Open Publication Di
 
 ![Before running the extension](https://github.com/bigbigmdm/Flibusta-OPDS-chrome-ext/blob/main/img/before.png) 
 
-Afther running the extension? the Flibusta OPDS page looked like this:
+After launching the Flibusta OPDS extension, the Flibusta OPDS page will look like this:
 
 ![After running the extension](https://github.com/bigbigmdm/Flibusta-OPDS-chrome-ext/blob/main/img/after.png) 
